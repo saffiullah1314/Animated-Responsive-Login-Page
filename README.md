@@ -11,9 +11,9 @@ This is a **simple yet modern login page** built using only **HTML and CSS**, fe
 
 ---
 
-## 📸 Preview
+## 🔗 Live Preview
 
-![Login Page](https://saffiullah1314.github.io/Animated-Responsive-Login-Page/) <!-- Optional: Replace with your own screenshot or remove -->
+👉 [Click here to view the live demo](https://saffiullah1314.github.io/Animated-Responsive-Login-Page/)
 
 ---
 
@@ -25,6 +25,3 @@ This is a **simple yet modern login page** built using only **HTML and CSS**, fe
 - Pure CSS (no frameworks or JS)
 
 ---
-
-## 📁 Folder Structure
-
