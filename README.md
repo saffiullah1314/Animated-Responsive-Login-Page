@@ -13,7 +13,7 @@ This is a **simple yet modern login page** built using only **HTML and CSS**, fe
 
 ## 📸 Preview
 
-![Login Page]() <!-- Optional: Replace with your own screenshot or remove -->
+![Login Page](https://saffiullah1314.github.io/Animated-Responsive-Login-Page/) <!-- Optional: Replace with your own screenshot or remove -->
 
 ---
 
